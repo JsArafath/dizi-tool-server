@@ -19,10 +19,10 @@ router.get('/', (req, res) => {
 // ── POST /api/products — admin only
 router.post('/', protect, adminOnly, (req, res) => {
   const { nameEn, nameBn, shortDescEn, shortDescBn, fullDescEn, fullDescBn,
-          icon, iconBg, stock, usdt, inr } = req.body
+          icon, iconBg, stock, usdt, bdt } = req.body
 
-  if (!nameEn || !usdt || !inr || !stock)
-    return res.status(400).json({ success: false, message: 'nameEn, usdt, inr, stock are required' })
+  if (!nameEn || !usdt || !bdt || !stock)
+    return res.status(400).json({ success: false, message: 'nameEn, usdt, bdt, stock are required' })
 
   const product = store.add({
     icon: icon || '📦',
@@ -33,7 +33,7 @@ router.post('/', protect, adminOnly, (req, res) => {
     stock: Number(stock),
     sold: 0,
     usdt: Number(usdt),
-    inr: Number(inr),
+    bdt: Number(bdt),
   })
 
   res.status(201).json({ success: true, product })
