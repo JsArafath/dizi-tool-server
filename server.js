@@ -1,5 +1,6 @@
 require('dotenv').config()
 const express = require('express')
+const mongoose = require('mongoose')
 const cors = require('cors')
 const authRoutes = require('./routes/authRoutes')
 const productRoutes = require('./routes/productRoutes')
@@ -47,8 +48,15 @@ app.use((req, res) => {
   res.status(404).json({ success: false, message: 'Route not found' })
 })
 
-// ── Start ────────────────────────────────────────────
-app.listen(PORT, () => {
-  console.log(`\n🚀 OfficialToolStore Server running on http://localhost:${PORT}`)
-  console.log(`📡 Client URL: ${process.env.CLIENT_URL}\n`)
-})
+// ── Database & Start ─────────────────────────────────
+mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/officialtoolstore')
+  .then(() => {
+    console.log('✅ Connected to MongoDB')
+    app.listen(PORT, () => {
+      console.log(`🚀 OfficialToolStore Server running on http://localhost:${PORT}`)
+      console.log(`📡 Client URL: ${process.env.CLIENT_URL}\n`)
+    })
+  })
+  .catch(err => {
+    console.error('❌ MongoDB Connection Error:', err)
+  })
