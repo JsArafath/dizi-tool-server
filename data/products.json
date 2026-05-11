@@ -1,0 +1,703 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Tài khoản Windsurf Pro Max chính hãng",
+        "bn": "Tài khoản Windsurf Pro Max chính hãng"
+      },
+      "shortDesc": {
+        "en": "Tài khoản Windsurf Pro Max chính hãng",
+        "bn": "Tài khoản Windsurf Pro Max chính hãng"
+      },
+      "fullDesc": {
+        "en": "Tài khoản Windsurf Pro Max chính hãng",
+        "bn": "Tài khoản Windsurf Pro Max chính hãng"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI1ZTAwMDAxYy02YTZhLTRhZTktNzcxNS1kYmJmYzRhNWVkMDAifQ/wp-content/uploads/2026/04/mua-tai-khoan-winsurf-pro-max-chinh-hang-gia-re.jpg",
+      "stock": 100,
+      "sold": 472,
+      "usdt": "0.8",
+      "bdt": 19000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.8",
+          "bdt": 19000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Hot"
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Netflix premium – Xem Phim HD/4K, Không Quảng Cáo",
+        "bn": "Netflix premium – Xem Phim HD/4K, Không Quảng Cáo"
+      },
+      "shortDesc": {
+        "en": "Netflix premium – Xem Phim HD/4K, Không Quảng Cáo",
+        "bn": "Netflix premium – Xem Phim HD/4K, Không Quảng Cáo"
+      },
+      "fullDesc": {
+        "en": "Netflix premium – Xem Phim HD/4K, Không Quảng Cáo",
+        "bn": "Netflix premium – Xem Phim HD/4K, Không Quảng Cáo"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI1NjM5NmYzMC01NjVjLTQ1OTctZDc0NS0xYmNmYTJjN2MxMDAifQ/wp-content/uploads/2026/03/mua-netflix-premium-gia-re-chinh-hang.jpg",
+      "stock": 100,
+      "sold": 486,
+      "usdt": "2.6",
+      "bdt": 65000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "2.6",
+          "bdt": 65000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Hot"
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Kling AI – Tạo Video AI Đỉnh Cao 2026",
+        "bn": "Kling AI – Tạo Video AI Đỉnh Cao 2026"
+      },
+      "shortDesc": {
+        "en": "Kling AI – Tạo Video AI Đỉnh Cao 2026",
+        "bn": "Kling AI – Tạo Video AI Đỉnh Cao 2026"
+      },
+      "fullDesc": {
+        "en": "Kling AI – Tạo Video AI Đỉnh Cao 2026",
+        "bn": "Kling AI – Tạo Video AI Đỉnh Cao 2026"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjF9/wp-content/uploads/2026/03/Kling-AI-Tao-Video-AI-Dinh-Cao-2026.png",
+      "stock": 100,
+      "sold": 451,
+      "usdt": "4.4",
+      "bdt": 110000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "4.4",
+          "bdt": 110000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Hot"
+      ]
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Codex Plus/Pro proxy – OpenAI API Codex chính hãng",
+        "bn": "Codex Plus/Pro proxy – OpenAI API Codex chính hãng"
+      },
+      "shortDesc": {
+        "en": "Codex Plus/Pro proxy – OpenAI API Codex chính hãng",
+        "bn": "Codex Plus/Pro proxy – OpenAI API Codex chính hãng"
+      },
+      "fullDesc": {
+        "en": "Codex Plus/Pro proxy – OpenAI API Codex chính hãng",
+        "bn": "Codex Plus/Pro proxy – OpenAI API Codex chính hãng"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjF9/wp-content/uploads/2026/05/Mua-tai-khoan-Codex-Pro-x20-gia-re-1.png",
+      "stock": 100,
+      "sold": 347,
+      "usdt": "2.0",
+      "bdt": 49000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "2.0",
+          "bdt": 49000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Hot"
+      ]
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "Tài khoản Kiro Pro",
+        "bn": "Tài khoản Kiro Pro"
+      },
+      "shortDesc": {
+        "en": "Tài khoản Kiro Pro",
+        "bn": "Tài khoản Kiro Pro"
+      },
+      "fullDesc": {
+        "en": "Tài khoản Kiro Pro",
+        "bn": "Tài khoản Kiro Pro"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjF9/wp-content/uploads/2026/05/Mua-tai-khoan-Kiro-pro-chinh-hang-gia-re.png",
+      "stock": 100,
+      "sold": 261,
+      "usdt": "4.0",
+      "bdt": 99000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "4.0",
+          "bdt": 99000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Hot"
+      ]
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Cursor unlimited requests 3rd extension",
+        "bn": "Cursor unlimited requests 3rd extension"
+      },
+      "shortDesc": {
+        "en": "Cursor unlimited requests 3rd extension",
+        "bn": "Cursor unlimited requests 3rd extension"
+      },
+      "fullDesc": {
+        "en": "Cursor unlimited requests 3rd extension",
+        "bn": "Cursor unlimited requests 3rd extension"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiJjNjRkYWEzYS1hZDIzLTRmOGItNjdhOS1hMzJmYTNhMDVjMDAifQ/wp-content/uploads/2026/03/cursor-unlimited-requests-3rd-extension.png",
+      "stock": 100,
+      "sold": 352,
+      "usdt": "1.2",
+      "bdt": 29000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "1.2",
+          "bdt": 29000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-43%",
+        "Hot"
+      ]
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "Grok Super Heavy – Mở Khóa Mọi Tính Năng AI Đỉnh Cao Nhất",
+        "bn": "Grok Super Heavy – Mở Khóa Mọi Tính Năng AI Đỉnh Cao Nhất"
+      },
+      "shortDesc": {
+        "en": "Grok Super Heavy – Mở Khóa Mọi Tính Năng AI Đỉnh Cao Nhất",
+        "bn": "Grok Super Heavy – Mở Khóa Mọi Tính Năng AI Đỉnh Cao Nhất"
+      },
+      "fullDesc": {
+        "en": "Grok Super Heavy – Mở Khóa Mọi Tính Năng AI Đỉnh Cao Nhất",
+        "bn": "Grok Super Heavy – Mở Khóa Mọi Tính Năng AI Đỉnh Cao Nhất"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiIxZmE3Y2I5NC0zYTlmLTQ1ZDgtNWNlMS04YzAyMDJjOGQ2MDAifQ/wp-content/uploads/2026/03/Super-Gork-AI.webp",
+      "stock": 100,
+      "sold": 434,
+      "usdt": "2.0",
+      "bdt": 49000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "2.0",
+          "bdt": 49000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-21%",
+        "Hot"
+      ]
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "Lovable Pro",
+        "bn": "Lovable Pro"
+      },
+      "shortDesc": {
+        "en": "Lovable Pro",
+        "bn": "Lovable Pro"
+      },
+      "fullDesc": {
+        "en": "Lovable Pro",
+        "bn": "Lovable Pro"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjF9/wp-content/uploads/2026/03/mua-Lovable-Pro-gia-re-chinh-hang.webp",
+      "stock": 100,
+      "sold": 260,
+      "usdt": "1.2",
+      "bdt": 29000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "1.2",
+          "bdt": 29000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-81%",
+        "Hot"
+      ]
+    },
+    {
+      "id": 9,
+      "name": {
+        "en": "Antigravity Ultra – nâng cấp chính chủ",
+        "bn": "Antigravity Ultra – nâng cấp chính chủ"
+      },
+      "shortDesc": {
+        "en": "Antigravity Ultra – nâng cấp chính chủ",
+        "bn": "Antigravity Ultra – nâng cấp chính chủ"
+      },
+      "fullDesc": {
+        "en": "Antigravity Ultra – nâng cấp chính chủ",
+        "bn": "Antigravity Ultra – nâng cấp chính chủ"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI2NGI2MTdiZS1mYmU4LTRiMDktODY3Zi03MjQzYTJhMmFlMDAifQ/wp-content/uploads/2026/03/mua-Antigravity-pro-ultra-gia-re.webp",
+      "stock": 100,
+      "sold": 93,
+      "usdt": "14.8",
+      "bdt": 369000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "14.8",
+          "bdt": 369000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Hot"
+      ]
+    },
+    {
+      "id": 10,
+      "name": {
+        "en": "Claude code Team Premium/Standard/Pro chính hãng",
+        "bn": "Claude code Team Premium/Standard/Pro chính hãng"
+      },
+      "shortDesc": {
+        "en": "Claude code Team Premium/Standard/Pro chính hãng",
+        "bn": "Claude code Team Premium/Standard/Pro chính hãng"
+      },
+      "fullDesc": {
+        "en": "Claude code Team Premium/Standard/Pro chính hãng",
+        "bn": "Claude code Team Premium/Standard/Pro chính hãng"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiJkY2U0ZWM1MC1lZjdhLTQ3Y2YtOGNhNS1iZmU5ODQ4MjM0MDAifQ/wp-content/uploads/2026/03/mua-anthropic-claude-code-pro-max-x20-chinh-hang-gia-re.webp",
+      "stock": 100,
+      "sold": 124,
+      "usdt": "18.0",
+      "bdt": 450000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "18.0",
+          "bdt": 450000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "Giảm giá",
+        "Hot"
+      ]
+    },
+    {
+      "id": 11,
+      "name": {
+        "en": "Tài khoản Codex | OpenAI gói Plus giá rẻ",
+        "bn": "Tài khoản Codex | OpenAI gói Plus giá rẻ"
+      },
+      "shortDesc": {
+        "en": "Tài khoản Codex | OpenAI gói Plus giá rẻ",
+        "bn": "Tài khoản Codex | OpenAI gói Plus giá rẻ"
+      },
+      "fullDesc": {
+        "en": "Tài khoản Codex | OpenAI gói Plus giá rẻ",
+        "bn": "Tài khoản Codex | OpenAI gói Plus giá rẻ"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI1ODcwNTRmNS0yMmJiLTQwZTMtZjM4MC1kNzk4MTcwOGEyMDAifQ/wp-content/uploads/2026/03/tai-khoan-codex-openai-gia-re.png",
+      "stock": 100,
+      "sold": 333,
+      "usdt": "0.6",
+      "bdt": 14900,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.6",
+          "bdt": 14900
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 12,
+      "name": {
+        "en": "Tài khoản ChatGPT/Codex gói free",
+        "bn": "Tài khoản ChatGPT/Codex gói free"
+      },
+      "shortDesc": {
+        "en": "Tài khoản ChatGPT/Codex gói free",
+        "bn": "Tài khoản ChatGPT/Codex gói free"
+      },
+      "fullDesc": {
+        "en": "Tài khoản ChatGPT/Codex gói free",
+        "bn": "Tài khoản ChatGPT/Codex gói free"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjF9/wp-content/uploads/2026/04/Mua-ChatGPT-Free-1K-1.png",
+      "stock": 100,
+      "sold": 256,
+      "usdt": "0.0",
+      "bdt": 1000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.0",
+          "bdt": 1000
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 13,
+      "name": {
+        "en": "Canva pro",
+        "bn": "Canva pro"
+      },
+      "shortDesc": {
+        "en": "Canva pro",
+        "bn": "Canva pro"
+      },
+      "fullDesc": {
+        "en": "Canva pro",
+        "bn": "Canva pro"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI2MmE2OWJlNi1hODk0LTRlOWItMGU2Yy0xOWIyN2U5YWYwMDAifQ/wp-content/uploads/2026/03/mua-canva-pro-gia-re.jpg",
+      "stock": 100,
+      "sold": 150,
+      "usdt": "0.6",
+      "bdt": 15000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.6",
+          "bdt": 15000
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 17,
+      "name": {
+        "en": "Claude code Pro Max x5 x20 chính hãng",
+        "bn": "Claude code Pro Max x5 x20 chính hãng"
+      },
+      "shortDesc": {
+        "en": "Claude code Pro Max x5 x20 chính hãng",
+        "bn": "Claude code Pro Max x5 x20 chính hãng"
+      },
+      "fullDesc": {
+        "en": "Claude code Pro Max x5 x20 chính hãng",
+        "bn": "Claude code Pro Max x5 x20 chính hãng"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiJkY2U0ZWM1MC1lZjdhLTQ3Y2YtOGNhNS1iZmU5ODQ4MjM0MDAifQ/wp-content/uploads/2026/03/mua-anthropic-claude-code-pro-max-x20-chinh-hang-gia-re.webp",
+      "stock": 100,
+      "sold": 423,
+      "usdt": "1.2",
+      "bdt": 29000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "1.2",
+          "bdt": 29000
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 18,
+      "name": {
+        "en": "Hotmail Live Vĩnh Viễn – Email Ổn Định, Dùng Lâu Dài",
+        "bn": "Hotmail Live Vĩnh Viễn – Email Ổn Định, Dùng Lâu Dài"
+      },
+      "shortDesc": {
+        "en": "Hotmail Live Vĩnh Viễn – Email Ổn Định, Dùng Lâu Dài",
+        "bn": "Hotmail Live Vĩnh Viễn – Email Ổn Định, Dùng Lâu Dài"
+      },
+      "fullDesc": {
+        "en": "Hotmail Live Vĩnh Viễn – Email Ổn Định, Dùng Lâu Dài",
+        "bn": "Hotmail Live Vĩnh Viễn – Email Ổn Định, Dùng Lâu Dài"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiIxNGFjMmU4Zi03NzNlLTRmOGItMThmMy1mODI2MzE5ZmExMDAifQ/wp-content/uploads/2026/03/mua-outlook-hotmail-gia-re.webp",
+      "stock": 100,
+      "sold": 260,
+      "usdt": "0.0",
+      "bdt": 600,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.0",
+          "bdt": 600
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-26%"
+      ]
+    },
+    {
+      "id": 19,
+      "name": {
+        "en": "Tài khoản ChatGPT | OpenAI giá rẻ chính chủ nâng cấp trên mail của bạn",
+        "bn": "Tài khoản ChatGPT | OpenAI giá rẻ chính chủ nâng cấp trên mail của bạn"
+      },
+      "shortDesc": {
+        "en": "Tài khoản ChatGPT | OpenAI giá rẻ chính chủ nâng cấp trên mail của bạn",
+        "bn": "Tài khoản ChatGPT | OpenAI giá rẻ chính chủ nâng cấp trên mail của bạn"
+      },
+      "fullDesc": {
+        "en": "Tài khoản ChatGPT | OpenAI giá rẻ chính chủ nâng cấp trên mail của bạn",
+        "bn": "Tài khoản ChatGPT | OpenAI giá rẻ chính chủ nâng cấp trên mail của bạn"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI5MTFlYjdmZi03MGQ1LTQ3ZjctMzI4OS02MmE3OTZmNDYxMDAifQ/wp-content/uploads/2026/03/tai-khoan-chatgpt-openai-gia-re-chinh-chu-nang-cap-tren-mail-cua-ban.png",
+      "stock": 100,
+      "sold": 441,
+      "usdt": "2.4",
+      "bdt": 59000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "2.4",
+          "bdt": 59000
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 20,
+      "name": {
+        "en": "Tài khoản Codex Gói Business/Team giảm giá sâu",
+        "bn": "Tài khoản Codex Gói Business/Team giảm giá sâu"
+      },
+      "shortDesc": {
+        "en": "Tài khoản Codex Gói Business/Team giảm giá sâu",
+        "bn": "Tài khoản Codex Gói Business/Team giảm giá sâu"
+      },
+      "fullDesc": {
+        "en": "Tài khoản Codex Gói Business/Team giảm giá sâu",
+        "bn": "Tài khoản Codex Gói Business/Team giảm giá sâu"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjF9/wp-content/uploads/2026/04/Mua-chatpgt-codex-bussiness-gia-re.png",
+      "stock": 100,
+      "sold": 188,
+      "usdt": "8.0",
+      "bdt": 199000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "8.0",
+          "bdt": 199000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-5%"
+      ]
+    },
+    {
+      "id": 22,
+      "name": {
+        "en": "Tài khoản ChatGPT | OpenAI giá rẻ",
+        "bn": "Tài khoản ChatGPT | OpenAI giá rẻ"
+      },
+      "shortDesc": {
+        "en": "Tài khoản ChatGPT | OpenAI giá rẻ",
+        "bn": "Tài khoản ChatGPT | OpenAI giá rẻ"
+      },
+      "fullDesc": {
+        "en": "Tài khoản ChatGPT | OpenAI giá rẻ",
+        "bn": "Tài khoản ChatGPT | OpenAI giá rẻ"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiJiMWMyOThhMi03ZmQ2LTQwZDMtMTgxNC00ODE4ZTU4OWNjMDAifQ/wp-content/uploads/2026/03/tai-khoan-chatgpt-openai-gia-re.png",
+      "stock": 100,
+      "sold": 508,
+      "usdt": "0.0",
+      "bdt": 1000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.0",
+          "bdt": 1000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-90%"
+      ]
+    },
+    {
+      "id": 30,
+      "name": {
+        "en": "ElevenLabs Creator – Tạo Giọng Nói AI Tự Nhiên, Chất Lượng Cao",
+        "bn": "ElevenLabs Creator – Tạo Giọng Nói AI Tự Nhiên, Chất Lượng Cao"
+      },
+      "shortDesc": {
+        "en": "ElevenLabs Creator – Tạo Giọng Nói AI Tự Nhiên, Chất Lượng Cao",
+        "bn": "ElevenLabs Creator – Tạo Giọng Nói AI Tự Nhiên, Chất Lượng Cao"
+      },
+      "fullDesc": {
+        "en": "ElevenLabs Creator – Tạo Giọng Nói AI Tự Nhiên, Chất Lượng Cao",
+        "bn": "ElevenLabs Creator – Tạo Giọng Nói AI Tự Nhiên, Chất Lượng Cao"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiJiZGE5ZDM3NC1mZjZjLTRjNDQtZDY3Zi1hYWZiMTEyNjIyMDAifQ/wp-content/uploads/2026/03/mua-elevenlabs-creator-chinh-hang-gia-re.jpg",
+      "stock": 100,
+      "sold": 281,
+      "usdt": "0.4",
+      "bdt": 9999,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "0.4",
+          "bdt": 9999
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 31,
+      "name": {
+        "en": "FPT Play – Xem Truyền Hình, Bóng Đá, Phim HD",
+        "bn": "FPT Play – Xem Truyền Hình, Bóng Đá, Phim HD"
+      },
+      "shortDesc": {
+        "en": "FPT Play – Xem Truyền Hình, Bóng Đá, Phim HD",
+        "bn": "FPT Play – Xem Truyền Hình, Bóng Đá, Phim HD"
+      },
+      "fullDesc": {
+        "en": "FPT Play – Xem Truyền Hình, Bóng Đá, Phim HD",
+        "bn": "FPT Play – Xem Truyền Hình, Bóng Đá, Phim HD"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiJhYjk4N2Q1ZS00OGE2LTQ4NWQtN2Q0Ny02OTc0MDYyZDYxMDAifQ/wp-content/uploads/2026/03/mua-FPT-Play-vvip2-gia-re.jpg",
+      "stock": 100,
+      "sold": 108,
+      "usdt": "16.0",
+      "bdt": 399000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "16.0",
+          "bdt": 399000
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 32,
+      "name": {
+        "en": "PICSART Chính Chủ – Chỉnh Ảnh Full Tính Năng, Không Watermark",
+        "bn": "PICSART Chính Chủ – Chỉnh Ảnh Full Tính Năng, Không Watermark"
+      },
+      "shortDesc": {
+        "en": "PICSART Chính Chủ – Chỉnh Ảnh Full Tính Năng, Không Watermark",
+        "bn": "PICSART Chính Chủ – Chỉnh Ảnh Full Tính Năng, Không Watermark"
+      },
+      "fullDesc": {
+        "en": "PICSART Chính Chủ – Chỉnh Ảnh Full Tính Năng, Không Watermark",
+        "bn": "PICSART Chính Chủ – Chỉnh Ảnh Full Tính Năng, Không Watermark"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiIyZjBjNzAwZS03ZTczLTRlMjgtZWI4My03MzE0MTU2Y2UxMDAifQ/wp-content/uploads/2026/03/mua-PICSART-pro-1-nam-gia-re-chinh-hang.webp",
+      "stock": 100,
+      "sold": 173,
+      "usdt": "6.0",
+      "bdt": 150000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "6.0",
+          "bdt": 150000
+        }
+      ],
+      "category": "",
+      "tags": [
+        "-15%"
+      ]
+    },
+    {
+      "id": 33,
+      "name": {
+        "en": "Gemini AI Pro Ultra",
+        "bn": "Gemini AI Pro Ultra"
+      },
+      "shortDesc": {
+        "en": "Gemini AI Pro Ultra",
+        "bn": "Gemini AI Pro Ultra"
+      },
+      "fullDesc": {
+        "en": "Gemini AI Pro Ultra",
+        "bn": "Gemini AI Pro Ultra"
+      },
+      "image": "https://openimagegen.uk/og?mainText=%20&description=Gemini%20AI&footerText=taphoai.com&style=2",
+      "stock": 100,
+      "sold": 346,
+      "usdt": "1.6",
+      "bdt": 39000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "1.6",
+          "bdt": 39000
+        }
+      ],
+      "category": "",
+      "tags": []
+    },
+    {
+      "id": 34,
+      "name": {
+        "en": "Google Veo3",
+        "bn": "Google Veo3"
+      },
+      "shortDesc": {
+        "en": "Google Veo3",
+        "bn": "Google Veo3"
+      },
+      "fullDesc": {
+        "en": "Google Veo3",
+        "bn": "Google Veo3"
+      },
+      "image": "https://cfw61.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoidGFwaG9haS5jb20iLCJ2Ijo1ODc5MzA4MTUsInIiOjEsImkiOiI3ZGE2N2M1MC00YzUzLTQ2ZjgtMjMwYi0zZWQ1M2ZiZmQ1MDAifQ/wp-content/uploads/2026/03/google-veo3.png",
+      "stock": 100,
+      "sold": 373,
+      "usdt": "1.8",
+      "bdt": 45000,
+      "packages": [
+        {
+          "duration": "1 Tháng",
+          "usdt": "1.8",
+          "bdt": 45000
+        }
+      ],
+      "category": "",
+      "tags": []
+    }
+  ]
+}

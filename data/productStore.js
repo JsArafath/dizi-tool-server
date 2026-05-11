@@ -1,4 +1,4 @@
-const { products: staticProducts } = require('../data/products')
+const { products: staticProducts } = require('../data/products.json')
 
 // Runtime product store (initialized from static data)
 let products = [...staticProducts]
