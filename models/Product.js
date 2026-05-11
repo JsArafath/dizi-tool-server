@@ -27,7 +27,13 @@ const productSchema = new mongoose.Schema({
     bdt: Number
   }],
   category: { type: String, default: 'AI' },
-  tags: [{ type: String }] // e.g. "Hot", "-43%"
+  tags: [{ type: String }], // e.g. "Hot", "-43%"
+  options: {
+    guarantee: { type: String, default: 'No warranty' },
+    share: { type: String, default: 'Pro trial' },
+    duration: { type: String, default: 'Random' },
+    accountType: { type: String, default: 'Session' }
+  }
 }, { timestamps: true });
 
 module.exports = mongoose.model('Product', productSchema);

@@ -24,7 +24,7 @@ router.get('/', async (req, res) => {
 // ── POST /api/products — admin only
 router.post('/', protect, adminOnly, async (req, res) => {
   const { nameEn, nameBn, shortDescEn, shortDescBn, fullDescEn, fullDescBn,
-          image, stock, packages, category, tags } = req.body
+          image, stock, packages, category, tags, options } = req.body
 
   if (!nameEn || !stock || !packages || packages.length === 0)
     return res.status(400).json({ success: false, message: 'nameEn, stock, and at least one package are required' })
@@ -51,7 +51,13 @@ router.post('/', protect, adminOnly, async (req, res) => {
       usdt: Number(baseUsdt),
       bdt: Number(baseBdt),
       category: category || '',
-      tags: tags || []
+      tags: tags || [],
+      options: options || {
+        guarantee: 'No warranty',
+        share: 'Pro trial',
+        duration: 'Random',
+        accountType: 'Session'
+      }
     })
 
     await product.save()
