@@ -17,6 +17,8 @@ const allowedOrigins = [
   'http://localhost:5174',
   'http://localhost:5175',
   'https://dizi-tool-client.vercel.app',
+  'https://officialtoolstore.com',
+  'https://www.officialtoolstore.com',
   ...(process.env.CLIENT_URL ? process.env.CLIENT_URL.split(',').map(u => u.trim()) : []),
 ]
 
@@ -49,14 +51,25 @@ app.use((req, res) => {
 })
 
 // ── Database & Start ─────────────────────────────────
-mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/officialtoolstore')
-  .then(() => {
-    console.log('✅ Connected to MongoDB')
-    app.listen(PORT, () => {
-      console.log(`🚀 OfficialToolStore Server running on http://localhost:${PORT}`)
-      console.log(`📡 Client URL: ${process.env.CLIENT_URL}\n`)
-    })
+let isConnected = false;
+
+const connectDB = async () => {
+  if (isConnected) {
+    console.log('✅ Using cached MongoDB connection');
+    return;
+  }
+  try {
+    const db = await mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/officialtoolstore');
+    isConnected = db.connections[0].readyState;
+    console.log('✅ Connected to MongoDB');
+  } catch (error) {
+    console.error('❌ MongoDB Connection Error:', error);
+  }
+};
+
+connectDB().then(() => {
+  app.listen(PORT, () => {
+    console.log(`🚀 OfficialToolStore Server running on http://localhost:${PORT}`)
+    console.log(`📡 Client URL: ${process.env.CLIENT_URL}\n`)
   })
-  .catch(err => {
-    console.error('❌ MongoDB Connection Error:', err)
-  })
+});
