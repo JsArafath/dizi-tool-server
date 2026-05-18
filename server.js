@@ -35,25 +35,45 @@ app.use(express.json({ limit: '10mb' }))
 app.use(express.urlencoded({ limit: '10mb', extended: true })) // Need this to parse POST requests from external gateways
 
 // ── Database Connection ────────────────────────────────
-let isConnected = false;
+let cached = global.mongoose;
+if (!cached) {
+  cached = global.mongoose = { conn: null, promise: null };
+}
 
 const connectDB = async () => {
-  if (isConnected) {
-    return;
+  if (cached.conn) {
+    return cached.conn;
+  }
+  if (!cached.promise) {
+    console.log('🔄 Initializing new MongoDB connection...');
+    const opts = {
+      bufferCommands: false,
+      serverSelectionTimeoutMS: 5000,
+    };
+    cached.promise = mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/officialtoolstore', opts)
+      .then((mongoose) => {
+        console.log('✅ Connected to MongoDB');
+        return mongoose;
+      });
   }
   try {
-    const db = await mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/officialtoolstore');
-    isConnected = db.connections[0].readyState;
-    console.log('✅ Connected to MongoDB');
-  } catch (error) {
-    console.error('❌ MongoDB Connection Error:', error);
+    cached.conn = await cached.promise;
+  } catch (e) {
+    cached.promise = null;
+    console.error('❌ MongoDB Connection Error:', e);
+    throw e;
   }
+  return cached.conn;
 };
 
 // Vercel Serverless Middleware
 app.use(async (req, res, next) => {
-  await connectDB();
-  next();
+  try {
+    await connectDB();
+    next();
+  } catch (error) {
+    res.status(500).json({ success: false, message: 'Database connection failed' });
+  }
 });
 
 // ── Routes ───────────────────────────────────────────
